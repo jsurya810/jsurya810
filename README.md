@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jayasurya Natarajan, software test engineer specialized in regression, functional testing, diverse testing methodologies.
+- 👋 Hi, I’m Jayasurya Natarajan, software test engineer specialized in regression testing, functional testing, diverse testing scenarios and methodologies.
 - 👀 Looking for opportunities in software testing 
 - 🌱 Skilled in QA manual, QA automation, Selenium, Maven, TestNG, BDD Cucumber
 - 💞️ Looking to collaborate on testing projects
